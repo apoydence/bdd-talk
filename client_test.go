@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"net/http/httptest"
 
-	bddtalk "github.com/apoydence/bdd-talk"
+	bddtalk "github.com/poy/bdd-talk"
 
-	. "github.com/apoydence/eachers"
+	. "github.com/poy/eachers"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

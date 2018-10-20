@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/apoydence/bdd-talk"
+	"github.com/poy/bdd-talk"
 )
 
 type FakeResponseStorer struct {
